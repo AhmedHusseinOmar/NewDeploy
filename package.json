@@ -1,0 +1,26 @@
+{
+  "name": "exercise-express-environment",
+  "version": "1.0.0",
+  "description": "An environment variable is a variable whose value is set **outside** the program, typically through functionality built into the operating system or microservice. An environment variable is made up of a name/value pair. The primary use case for environment variables is to limit the need to modify and re-release an application due to changes in configuration data.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian Darga",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.17.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fbw-22-E03/05-environment-variable-AhmedHusseinOmar.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Fbw-22-E03/05-environment-variable-AhmedHusseinOmar/issues"
+  },
+  "homepage": "https://github.com/Fbw-22-E03/05-environment-variable-AhmedHusseinOmar#readme"
+}
